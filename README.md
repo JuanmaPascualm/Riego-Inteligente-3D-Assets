@@ -30,7 +30,6 @@ El diseño consta de **3 gabinetes independientes** para garantizar la estanquei
 
 ##  Autor
 * **Alumno**: Juan Manuel Pascual Martínez 
-* **Centro**: Almería, España 🇪🇸
 * **Ciclo**: Grado Superior en Mantenimiento Electrónico en IES El ARGAR
 
 ---
