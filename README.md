@@ -14,9 +14,9 @@ Este repositorio contiene los activos de diseño industrial para el sistema de r
 ## 🛠️ Especificaciones de la Carcasa
 El diseño consta de **3 gabinetes independientes** para garantizar la estanqueidad y seguridad del sistema:
 
-1.  **🔵 Gabinete de Control**: Aloja la pantalla E-Paper y la electrónica de potencia.
-2.  **🟢 Gabinete de Cultivo**: Espacio aislado para la planta y el sensor de humedad.
-3.  **💧 Gabinete Hidráulico**: Depósito de agua con bomba sumergible integrada.
+1.  ** Gabinete de Control**: Aloja la pantalla E-Paper y la electrónica de potencia.
+2.  ** Gabinete de Cultivo**: Espacio aislado para la planta y el sensor de humedad.
+3.  ** Gabinete Hidráulico**: Depósito de agua con bomba sumergible integrada.
 
 ---
 
@@ -32,8 +32,8 @@ El diseño consta de **3 gabinetes independientes** para garantizar la estanquei
 
 ## 🔌 Doble Alimentación
 El diseño es versátil y permite al usuario elegir según la necesidad:
-* **🔋 Portabilidad**: Espacio para Pila de 9V (mantenimiento preventivo).
-* **🔌 Estabilidad**: Conector para fuente externa de **12V 2A** (recomendado para evitar ruidos eléctricos).
+* ** Portabilidad**: Espacio para Pila de 9V (mantenimiento preventivo).
+* ** Estabilidad**: Conector para fuente externa de **12V 2A** (recomendado para evitar ruidos eléctricos).
 
 ---
 
